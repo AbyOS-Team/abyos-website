@@ -1,7 +1,7 @@
 function ModernCPP() {
     return <div className="flex flex-col items-center  p-12 bg-cover bg-black" style={{ backgroundImage: "url(features/modern-cpp.png)"}}>
-        <div className="flex flex-row items-center gap-4">
-           /* <img src="features/cpp.svg" className="w-16" alt=""/> */
+          <div className="flex flex-row items-center gap-4">
+          <img src="features/cpp.svg" className="w-16" alt=""/>
             <div className="text-xl font-extrabold">
                 Written in modern C++
             </div>
