@@ -12,10 +12,10 @@ function Social() {
             Join the Community!
         </div>
         <div className="flex flex-col md:flex-row gap-16">
-            <SocialItem image="github.svg" name="GitHub" href="https://github.com/skiftOS"/>
-            <SocialItem image="discord.svg" name="Discord" href="http://discord.skiftos.org/"/>
-            <SocialItem image="reddit.svg" name="Reddit" href="https://www.reddit.com/r/skift"/>
-            <SocialItem image="twitter.svg" name="Twitter" href="https://twitter.com/search?q=%23skiftOS"/>
+            <SocialItem image="github.svg" name="GitHub" href="https://github.com/AbyOS-Team"/>
+            <SocialItem image="discord.svg" name="Discord" href="https://www.abyos.netlify.app/discord"/>
+            <SocialItem image="reddit.svg" name="Reddit" href="https://www.reddit.com/r/AbyOS"/>
+            <SocialItem image="twitter.svg" name="Twitter" href="https://twitter.com/search?q=%23AbyOS"/>
         </div>
     </div>
     </div>
