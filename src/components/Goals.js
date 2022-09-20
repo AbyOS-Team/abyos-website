@@ -11,7 +11,7 @@ function Goals() {
                 </div>
 
                 <div className="text-gray-400 mb-4">
-                    Written by <img className="inline-block h-6 rounded-full" src="me.jpg" alt=""/> sleepy-monax
+                    Written by <img className="inline-block h-6 rounded-full" src="mee.jpg" alt=""/> abyoffical
                 </div>
 
                 <p className="mb-4">
