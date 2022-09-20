@@ -23,7 +23,7 @@ function Unix() {
         <div className="title">
             *NIX
         </div>
-        skiftOS feature an UNIX-like terminal experience with many familiar UNIX utilities
+        AbyOS feature an UNIX-like terminal experience with many familiar UNIX utilities
         <img src="features/unix.png" alt=""/>
     </div>
 }
