@@ -11,7 +11,7 @@ function Hero() {
                     A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience.
                 </div>
 
-                <a className="button" href="https://github.com/skiftOS/skift/releases">
+                <a className="button" href="https://github.com/AbyOS-Team/aby/releases">
                     Download the Latest Release*
                 </a>
                 <div className="text-xs pt-8">
