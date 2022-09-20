@@ -4,7 +4,7 @@ function Hero() {
             <embed className="max-w-xl w-full" src="laptop.png"/>
             <div className="flex flex-col items-start max-w-md p-4">
                 <div className="text-4xl font-extrabold mb-4">
-                    skiftOS
+                    AbyOS
                 </div>
 
                 <div className="mb-4">
