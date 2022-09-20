@@ -15,7 +15,7 @@ function Goals() {
                 </div>
 
                 <p className="mb-4">
-                    <b>skiftOS</b> is a project that I have been developing as a hobby, in parallel with my internship/course hours, for almost 3 years in modern C++.
+                    <b>AbyOS</b> is a project that I have been developing as a hobby, in parallel with my internship/course hours, for almost 3 years in modern C++.
                 </p>
 
                 <p className="mt-4">
