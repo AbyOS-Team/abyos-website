@@ -1,7 +1,7 @@
 function ModernCPP() {
     return <div className="flex flex-col items-center  p-12 bg-cover bg-black" style={{ backgroundImage: "url(features/modern-cpp.png)"}}>
           <div className="flex flex-row items-center gap-4">
-          <img src="features/cpp.svg" className="w-16" alt=""/>
+          <img draggable="false" src="features/cpp.svg" className="w-16" alt=""/>
             <div className="text-xl font-extrabold">
                 Written in modern C++
             </div>
@@ -14,7 +14,7 @@ function LibWidget() {
         <div className="title">
             Reactive UI library
         </div>
-        <img src="features/libwidget.png" className="h-32" alt=""/>
+        <img draggable="false" src="features/libwidget.png" className="h-32" alt=""/>
     </div>
 }
 
@@ -24,7 +24,7 @@ function Unix() {
             *NIX
         </div>
         AbyOS feature an UNIX-like terminal experience with many familiar UNIX utilities
-        <img src="features/unix.png" alt=""/>
+        <img draggable="false" src="features/unix.png" alt=""/>
     </div>
 }
 
