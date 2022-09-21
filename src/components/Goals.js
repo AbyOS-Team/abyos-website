@@ -2,7 +2,7 @@ function Goals() {
     return <div className="bg-white text-black flex flex-col items-center px-4 py-4 md:py-16">
         <div className="flex items-center flex-col md:flex-row gap-8">
             <div className="md:hidden flex flex-col items-center max-w-md">
-                <img draggable="false" className="rounded" src="capture2.png" alt=""/>
+                <img className="rounded" draggable="false" src="capture2.png" alt=""/>
             </div>
 
             <div className="max-w-md">
