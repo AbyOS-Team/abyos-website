@@ -7,7 +7,7 @@ function Contribute() {
                         Join the effort!
                     </div>
                     <div>
-                        The skift operating system is open source.
+                        The aby operating system is close source.
                     </div>
                     <div>
                         We welcome contributions.
