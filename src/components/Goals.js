@@ -2,7 +2,7 @@ function Goals() {
     return <div className="bg-white text-black flex flex-col items-center px-4 py-4 md:py-16">
         <div className="flex items-center flex-col md:flex-row gap-8">
             <div className="md:hidden flex flex-col items-center max-w-md">
-                <img className="rounded" src="capture2.png" alt=""/>
+                <img draggable="false" className="rounded" src="capture2.png" alt=""/>
             </div>
 
             <div className="max-w-md">
@@ -11,7 +11,7 @@ function Goals() {
                 </div>
 
                 <div className="text-gray-400 mb-4">
-                    Written by <img className="inline-block h-6 rounded-full" src="mee.jpg" alt=""/> abyoffical
+                    Written by <img className="inline-block h-6 rounded-full"draggable="false" src="mee.jpg" alt=""/> abyoffical
                 </div>
 
                 <p className="mb-4">
@@ -24,7 +24,7 @@ function Goals() {
             </div>
 
             <div className="hidden md:flex flex-col items-center max-w-md">
-                <img className="rounded" src="capture2.png" alt=""/>
+                <img className="rounded" draggable="false" src="capture2.png" alt=""/>
             </div>
         </div>
     </div>
