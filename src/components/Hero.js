@@ -1,7 +1,7 @@
 function Hero() {
     return<div className="flex flex-col items-center">
         <div className="flex items-center flex-col md:flex-row max-w-screen-xl">
-            <embed className="max-w-xl w-full" src="laptop.png"/>
+            <embed draggable="falsr" className="max-w-xl w-full" src="laptop.png"/>
             <div className="flex flex-col items-start max-w-md p-4">
                 <div className="text-4xl font-extrabold mb-4">
                     AbyOS
